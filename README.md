@@ -1,0 +1,1 @@
+ASP.Net Core 7 Minimal API with SQLite and Swagger
